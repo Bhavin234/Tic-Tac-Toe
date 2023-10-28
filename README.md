@@ -25,4 +25,4 @@ This project was created by Bhavin Sharma.
 ## License
 This project is open-source and available under the [MIT License].
 
-<img width="960" alt="image" src="https://github.com/Bhavin234/Tic-Tac-Toe/assets/104425282/81822ff6-9704-4f0e-93d2-ff1eab7ded38">
+
